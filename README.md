@@ -111,7 +111,7 @@ http://www.facebook.com/AdmKhayrulBashar
 
 ### image syntax
 
-<img src="images/adm45.jpg" width="310px" height="400px" title="AdmKhayrulBashar">
+<img src="images/propic.jpg" width="310px" height="400px" title="AdmKhayrulBashar">
 
 <!-- ![profile](images/adm45.jpg) -->
 
