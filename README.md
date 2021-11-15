@@ -1,10 +1,10 @@
 <!-- markdown tutorial -->
 
-Khayrul Bashar </br>
+Khayrul Bashar
 
 <!-- double space to make new line -->
 
-This second line
+This second line and Underline below
 
 ---
 
@@ -60,10 +60,11 @@ head {
 ### Ordered list
 
 1. ItemOne  
-   i. ChildOne  
-   ii. Child
+   i. Child1  
+   ii. Child2
 2. ItemTwo  
-   i. ChildTwo
+   i. Child1  
+   ii. Child2
 
 ### Unordered List
 
@@ -81,7 +82,7 @@ head {
 - [x] Task3
 - [x] Task4
 
-### Automatic Link
+### Directly Link
 
 http://www.facebook.com/AdmKhayrulBashar
 
@@ -91,37 +92,41 @@ http://www.facebook.com/AdmKhayrulBashar
 
 ### Markdown Link syntax
 
-[Khayrul](http://www.facebook.com/AdmKhayrulBashar)
+[Adm Khayrul Bashar](http://www.facebook.com/AdmKhayrulBashar)
 
-### Markdown link syntax
+### Markdown Link syntax
 
 [google](http://google.com)
 
-### Markdown list syntax
+### Markdown Link syntax
 
-[MyFB][facebook]  
-[MyYoutube][youtube]  
-[MyGithub][github]
+👉[Me On Email][akcadmkbh]  
+👉[Me On GitHub][github]  
+👉[Me On Youtube][youtube]  
+👉[Me On LinkedIn][linkedin]  
+👉[Me On Facebook][facebook]
 
 <!-- All link is here -->
 
 [facebook]: http://facebook.com/AdmKhayrulBashar
 [youtube]: http://youtube.com
 [github]: http://github.com/admKBH
+[linkedin]: https://www.linkedin.com/in/admkhayrulbashar/
+[akcadmkbh]: akcadmkbh@gmail.com
 
-### image syntax
+### Image Uploading syntax
 
-<img src="images/admkb.jpg" width="350px" height="380px" title="AdmKhayrulBashar">
+<img src="images/pic-cv.jpg" width="350px" height="380px" title="AdmKhayrulBashar">
 
 <!-- ![profile](images/adm45.jpg) -->
 
 ### Emoji Just copy past
 
-😀
+😀 😉 😍 🥰 😂 😛
 
 ### Table syntax
 
-| Name    | Email             |
-| ------- | ----------------- |
-| Khayrul | Khayrul@gmail.com |
-| Bashar  | Bashar@gmail.com  |
+| Name           | Email               | Phone           |
+| -------------- | ------------------- | --------------- |
+| Khayrul Bashar | akcadmkbh@gmail.com | +8801932-217151 |
+| Habiba Bashar  | admkbhakc@gmail.com | +8801767-366545 |
